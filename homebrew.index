@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+  <info>
+    <update version="1.0">
+      <file name="homebrew.index" url="https://github.com/AnomalyDetected/AuroraHomebrew/homebrew.index" />
+    </update>
+  </info>
+  <files>
+    <file name="items.xml" url="https://github.com/AnomalyDetected/AuroraHomebrew/items.xml" />
+  </files>
+</index>
